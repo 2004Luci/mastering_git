@@ -1,4 +1,4 @@
-## Hello, Git!Welcome to Git!
+## Welcome to Git!
 
 -Yo
 -I am adding this from 
